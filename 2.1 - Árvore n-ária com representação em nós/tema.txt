@@ -1,0 +1,5 @@
+1 - Árvore binária com representação em nós.
+2 - Árvore binária com representação contígua.
+3 - Árvore binária costurada.
+4 - Árvore n-ária com representação em nós.
+((20170067995) % 4) + 1 = 4
